@@ -1,14 +1,343 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "login": {
+    "user": {
+      "name": "Birru Alebachew"
+    }
+  },
+  "items": [
+    {
+      "fullItemName": "Bisacodyl",
+      "commodityType": "Medical Supplies",
+      "SN": "53271"
+    },
+    {
+      "fullItemName": "Acetaminophen",
+      "commodityType": "Medical Equipments",
+      "SN": "53641"
+    },
+    {
+      "fullItemName": "Octinoxate and Avobenzone",
+      "commodityType": "Medical Equipments",
+      "SN": "48972"
+    },
+    {
+      "fullItemName": "Canary Feathers",
+      "commodityType": "Medical Supplies",
+      "SN": "51480"
+    },
+    {
+      "fullItemName": "Glimepiride",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "69165"
+    },
+    {
+      "fullItemName": "Glycerin",
+      "commodityType": "Medical Equipments",
+      "SN": "28536"
+    },
+    {
+      "fullItemName": "Phenylephrine HCl",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "83082"
+    },
+    {
+      "fullItemName": "Titanium Dioxide and Zinc Oxide",
+      "commodityType": "Medical Supplies",
+      "SN": "62371"
+    },
+    {
+      "fullItemName": "Pyrithione Zinc",
+      "commodityType": "Medical Supplies",
+      "SN": "45180"
+    },
+    {
+      "fullItemName": "Ranitidine",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "79870"
+    },
+    {
+      "fullItemName": "butorphanol tartrate",
+      "commodityType": "Medical Supplies",
+      "SN": "79552"
+    },
+    {
+      "fullItemName": "Octinoxate, Octisalate",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "35984"
+    },
+    {
+      "fullItemName": "PredniSONE",
+      "commodityType": "Medical Supplies",
+      "SN": "56949"
+    },
+    {
+      "fullItemName": "Grass Pollen",
+      "commodityType": "Medical Equipments",
+      "SN": "92798"
+    },
+    {
+      "fullItemName": "Condurango",
+      "commodityType": "Pharmaceuticals",
+      "SN": "98778"
+    },
+    {
+      "fullItemName": "docetaxel anhydrous",
+      "commodityType": "Pharmaceuticals",
+      "SN": "41467"
+    },
+    {
+      "fullItemName": "ibuprofen",
+      "commodityType": "Medical Supplies",
+      "SN": "43424"
+    },
+    {
+      "fullItemName": "lovastatin",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "37943"
+    },
+    {
+      "fullItemName": "Aluminum Zirconium",
+      "commodityType": "Medical Equipments",
+      "SN": "94214"
+    },
+    {
+      "fullItemName": "Digoxin",
+      "commodityType": "Medical Equipments",
+      "SN": "30966"
+    },
+    {
+      "fullItemName": "English Plantain",
+      "commodityType": "Pharmaceuticals",
+      "SN": "70689"
+    },
+    {
+      "fullItemName": "Etodolac",
+      "commodityType": "Medical Supplies",
+      "SN": "20929"
+    },
+    {
+      "fullItemName": "acetaminophen",
+      "commodityType": "Pharmaceuticals",
+      "SN": "84640"
+    },
+    {
+      "fullItemName": "Menthol",
+      "commodityType": "Medical Supplies",
+      "SN": "17059"
+    },
+    {
+      "fullItemName": "promethazine hydrochloride",
+      "commodityType": "Pharmaceuticals",
+      "SN": "59440"
+    },
+    {
+      "fullItemName": "Norethindrone Acetate",
+      "commodityType": "Medical Equipments",
+      "SN": "83553"
+    },
+    {
+      "fullItemName": "Titanium Dioxide",
+      "commodityType": "Medical Supplies",
+      "SN": "25720"
+    },
+    {
+      "fullItemName": "egg",
+      "commodityType": "Medical Equipments",
+      "SN": "86780"
+    },
+    {
+      "fullItemName": "Betula Cortex",
+      "commodityType": "Pharmaceuticals",
+      "SN": "41083"
+    },
+    {
+      "fullItemName": "Pseudoephedrine HCl",
+      "commodityType": "Medical Equipments",
+      "SN": "61323"
+    },
+    {
+      "fullItemName": "Bismuth subsalicylate",
+      "commodityType": "Medical Equipments",
+      "SN": "48219"
+    },
+    {
+      "fullItemName": "Phosphorus 8 Special Order",
+      "commodityType": "Medical Equipments",
+      "SN": "65380"
+    },
+    {
+      "fullItemName": "Dextroamphetamine Saccharate",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "40705"
+    },
+    {
+      "fullItemName": "temazepam",
+      "commodityType": "Medical Supplies",
+      "SN": "25977"
+    },
+    {
+      "fullItemName": "Asafoetida",
+      "commodityType": "Medical Equipments",
+      "SN": "92083"
+    },
+    {
+      "fullItemName": "Panthenol",
+      "commodityType": "Pharmaceuticals",
+      "SN": "40233"
+    },
+    {
+      "fullItemName": "OCTINOXATE",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "64758"
+    },
+    {
+      "fullItemName": "DOPAMINE - FOLLITROPIN",
+      "commodityType": "Medical Equipments",
+      "SN": "65671"
+    },
+    {
+      "fullItemName": "Levofloxacin",
+      "commodityType": "Medical Equipments",
+      "SN": "38145"
+    },
+    {
+      "fullItemName": "Ceftriaxone Sodium",
+      "commodityType": "Medical Equipments",
+      "SN": "56772"
+    },
+    {
+      "fullItemName": "ciprofloxacin and dexamethasone",
+      "commodityType": "Medical Equipments",
+      "SN": "34664"
+    },
+    {
+      "fullItemName": "Montelukast Sodium",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "94660"
+    },
+    {
+      "fullItemName": "POTASSIUM CATION",
+      "commodityType": "Pharmaceuticals",
+      "SN": "32560"
+    },
+    {
+      "fullItemName": "metoprolol tartrate",
+      "commodityType": "Medical Equipments",
+      "SN": "20781"
+    },
+    {
+      "fullItemName": "Risperidone",
+      "commodityType": "Medical Equipments",
+      "SN": "78642"
+    },
+    {
+      "fullItemName": "Avobenzone",
+      "commodityType": "Pharmaceuticals",
+      "SN": "23900"
+    },
+    {
+      "fullItemName": "Diphenhydramine citrate, Ibuprofen",
+      "commodityType": "Medical Supplies",
+      "SN": "90152"
+    },
+    {
+      "fullItemName": "Kali bich",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "39505"
+    },
+    {
+      "fullItemName": "Benzoyl Peroxide",
+      "commodityType": "Chemicals and Reagents",
+      "SN": "57462"
+    },
+    {
+      "fullItemName": "sulfacetamide sodium and sulfur",
+      "commodityType": "Medical Supplies",
+      "SN": "91560"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "requests": [
+    {
+      "id": 1,
+      "createdDate": "Tue 2 Sep, 2020",
+      "requestStatus": "New",
+      "numberOfItems": 2,
+      "requestDetail": [
+        {
+          "fullItemName": "Levofloxacin",
+          "quantity": 4
+        },
+        {
+          "fullItemName": "Ceftriaxone",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "createdDate": "Sun 2 Sep, 2020",
+      "requestStatus": "Pending",
+      "numberOfItems": 5,
+      "requestDetail": [
+        {
+          "fullItemName": "Levofloxacin",
+          "quantity": 4
+        },
+        {
+          "fullItemName": "Ceftriaxone",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "createdDate": "Fri 2 Sep, 2020",
+      "requestStatus": "Draft",
+      "numberOfItems": 3,
+      "requestDetail": [
+        {
+          "fullItemName": "Levofloxacin",
+          "quantity": 4
+        },
+        {
+          "fullItemName": "Ceftriaxone",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "createdDate": "Sat 2 Sep, 2020",
+      "requestStatus": "Rejected",
+      "numberOfItems": 9,
+      "requestDetail": [
+        {
+          "fullItemName": "Levofloxacin",
+          "quantity": 4
+        },
+        {
+          "fullItemName": "Ceftriaxone",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "createdDate": "Mon 2 Sep, 2020",
+      "requestStatus": "New",
+      "numberOfItems": 1
+    },
+    {
+      "id": 6,
+      "createdDate": "Mon 2 Sep, 2020",
+      "requestStatus": "Approved",
+      "numberOfItems": 1,
+      "requestDetail": [
+        {
+          "fullItemName": "Levofloxacin",
+          "quantity": 4
+        }
+      ]
+    }
+  ]
 }
